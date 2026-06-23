@@ -1,0 +1,10 @@
+[
+  {"id":1,"name":"Hello","category":"Greeting","meaning":"Raise one hand to forehead and wave outward, like a salute.","language":"ASL"},
+  {"id":2,"name":"Thank You","category":"Expression","meaning":"Touch fingertips to chin, then move hand forward and down.","language":"ASL"},
+  {"id":3,"name":"Yes","category":"Response","meaning":"Make a fist and bob it up and down like nodding your head.","language":"ASL"},
+  {"id":4,"name":"No","category":"Response","meaning":"Tap index and middle finger onto thumb twice quickly.","language":"ASL"},
+  {"id":5,"name":"I Love You","category":"Expression","meaning":"Extend pinky, index finger, and thumb simultaneously outward.","language":"ASL"},
+  {"id":6,"name":"Please","category":"Polite","meaning":"Rub flat hand in a circular motion on the chest.","language":"ASL"},
+  {"id":7,"name":"Sorry","category":"Expression","meaning":"Make a fist, rotate it in a circle over your heart.","language":"ASL"},
+  {"id":8,"name":"Help","category":"Request","meaning":"Place closed fist on open palm and lift both hands up together.","language":"ASL"}
+]

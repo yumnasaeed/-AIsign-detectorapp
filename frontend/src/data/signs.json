@@ -1,0 +1,10 @@
+[
+  {"id":1,"name":"Hello","category":"Greeting","meaning":"Greet someone or say hello.","language":"ASL"},
+  {"id":2,"name":"Thank You","category":"Expression","meaning":"Express gratitude or appreciation.","language":"ASL"},
+  {"id":3,"name":"Yes","category":"Response","meaning":"Affirmative response or agreement.","language":"ASL"},
+  {"id":4,"name":"No","category":"Response","meaning":"Negative response or disagreement.","language":"ASL"},
+  {"id":5,"name":"I Love You","category":"Expression","meaning":"Express love and affection.","language":"ASL"},
+  {"id":6,"name":"Please","category":"Polite","meaning":"Polite request or asking for something.","language":"ASL"},
+  {"id":7,"name":"Sorry","category":"Expression","meaning":"Express apology or regret.","language":"ASL"},
+  {"id":8,"name":"Help","category":"Request","meaning":"Request assistance or support.","language":"ASL"}
+]
